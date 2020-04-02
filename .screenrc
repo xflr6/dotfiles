@@ -1,0 +1,45 @@
+activity "^GActivity in %n (%t)"
+autodetach on
+bell_msg "^GBell in %n (%t)"
+bind .
+bind ^\
+bind \\
+bind k
+bind ^k
+bind K kill
+bind P paste .
+bindkey -k k1 windowlist -b
+bindkey -k F1 prev
+bindkey -k F2 next
+blankerprg ""
+bufferfile $HOME/.screen/.screen_exchange
+caption splitonly "%{b rw}%n %Lt"
+#chdir $HOME/.screen
+compacthist off
+crlf off
+debug off
+deflog off
+deflogin off
+defmonitor off
+defscrollback 1000
+defutf8 on
+hardcopy_append off
+hardcopydir $HOME/.screen
+hardstatus alwayslastline "%{b bw}%-w%{rw}%n %t%{b bw}%+w %{b bw}%=%l %c"
+idle off
+ignorecase on
+logfile "screenlog.%n"
+logfile flush 30
+msgminwait 2
+msgwait 3
+multiuser off
+nethack off
+silencewait 15
+shell bash
+#shelltitle shell
+sorendition Wg
+startup_message off
+vbell off
+vbell_msg " *beep* "
+vbellwait 1
+verbose off
