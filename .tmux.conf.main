@@ -1,0 +1,6 @@
+#!/usr/bin/tmux source-file
+
+new-window -n tp 'nice htop -d 50'
+new-window -n lg 'nice less --follow-name +F /var/log/syslog'
+
+select-window -t 1
