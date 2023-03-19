@@ -4,7 +4,6 @@ beautifulsoup4>=4
 bitarray>=2
 bitsets
 Bottleneck>=1
-charset-normalizer
 concepts
 coverage>=6
 csv23
@@ -17,7 +16,6 @@ Flask>=2
 gmpy2
 google-api-python-client
 google-auth-oauthlib
-google-cloud-bigquery
 graphviz
 gsheets
 html5lib
@@ -32,7 +30,6 @@ latexpages
 lxml
 matplotlib>=3
 mock>=4
-msvc-runtime
 notebook>=6
 numexpr>=2
 numpy>=1
@@ -46,12 +43,10 @@ psutil
 psycopg[binary]>=3
 psycopg-pool
 psycopg2
-pyarrow
 pybtex
 pycountry
 Pygments
 pyparsing
-pyproj
 PyQt5
 pytest>=7
 pytest-cov
@@ -59,7 +54,6 @@ pytest-mock>=3
 pytz
 pywin32
 PyYAML
-pyzmq
 qtconsole>=5
 rdflib
 regex
@@ -68,7 +62,6 @@ requests>=2
 requests-toolbelt
 ruamel.yaml
 scandir
-scikit-image
 scikit-learn
 scipy
 simplejson
@@ -86,4 +79,3 @@ uritemplate
 urllib3
 virtualenv
 wheel
-Werkzeug
