@@ -43,6 +43,7 @@ psutil
 psycopg[binary]>=3
 psycopg-pool
 psycopg2
+pycopg2-binary
 pybtex
 pycountry
 Pygments
