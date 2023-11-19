@@ -52,6 +52,7 @@ PyQt5
 pytest>=7
 pytest-cov
 pytest-mock>=3
+pytest-xdist
 pytz
 pywin32
 PyYAML
