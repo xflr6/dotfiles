@@ -5,6 +5,7 @@ beautifulsoup4>=4
 bitarray>=2
 bitsets
 Bottleneck>=1
+build
 concepts
 coverage>=6
 csv23
