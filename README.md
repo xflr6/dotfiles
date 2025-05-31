@@ -1,3 +1,3 @@
 # dotfiles
 
-Configuration files (\*nix).
+Configuration files (mostly \*nix).

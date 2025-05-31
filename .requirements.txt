@@ -71,7 +71,7 @@ SPARQLWrapper>=2
 Sphinx>=5
 sphinx-rtd-theme
 sphinx_autodoc_typehints
-SQLAlchemy>=1.4
+SQLAlchemy>=2
 statsmodels
 tornado
 tox>=3
