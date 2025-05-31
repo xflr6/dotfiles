@@ -1,3 +1,4 @@
+# default Python environment
 aiohttp>=3
 basemap>=1
 beautifulsoup4>=4
@@ -13,7 +14,7 @@ dmengine
 features
 flake8
 Flask>=2
-#gmpy2
+gmpy2
 google-api-python-client
 google-auth-oauthlib
 graphviz
