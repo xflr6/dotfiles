@@ -41,7 +41,7 @@ oset
 pandas>=1.5
 pandas-gbq
 pep8-naming
-Pillow
+pillow
 psutil
 psycopg[binary]>=3
 psycopg-pool
@@ -72,8 +72,8 @@ scipy
 simplejson
 SPARQLWrapper>=2
 Sphinx>=5
+sphinx-autodoc-typehints
 sphinx-rtd-theme
-sphinx_autodoc_typehints
 SQLAlchemy>=2
 statsmodels
 tornado
