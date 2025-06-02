@@ -76,6 +76,7 @@ SQLAlchemy>=2
 statsmodels
 tornado
 tox>=4
+tqdm
 treedb>=2
 twine>=6
 uritemplate
