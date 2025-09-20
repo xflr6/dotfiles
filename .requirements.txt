@@ -33,6 +33,7 @@ latexpages
 lxml>=5
 matplotlib>=3
 mock>=5
+mypy
 notebook>=7
 numexpr>=2
 numpy>=2
