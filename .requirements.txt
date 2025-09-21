@@ -1,6 +1,6 @@
 # default Python environment
 aiohttp>=3
-#basemap=>1
+basemap>=1
 beautifulsoup4>=4
 bitarray>=3
 bitsets
