@@ -1,6 +1,6 @@
 # default Python environment
 aiohttp>=3
-basemap>=2
+#basemap>=2
 beautifulsoup4>=4
 bitarray>=3
 bitsets
@@ -16,7 +16,7 @@ features
 flake8>=7
 Flake8-pyproject
 Flask>=3
-gmpy2
+#gmpy2
 google-api-python-client
 google-auth-oauthlib
 graphviz
@@ -39,8 +39,8 @@ numexpr>=2
 numpy>=2
 openpyxl
 oset
-pandas>=2
-pandas-gbq
+#pandas>=2
+#pandas-gbq
 pep8-naming
 pillow
 psutil
