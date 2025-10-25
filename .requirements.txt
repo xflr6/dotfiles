@@ -39,8 +39,8 @@ numexpr>=2
 numpy>=2
 openpyxl
 oset
-#pandas>=2
-#pandas-gbq
+pandas>=2
+pandas-gbq
 pep8-naming
 pillow
 psutil
