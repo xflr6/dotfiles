@@ -39,6 +39,7 @@ numexpr>=2
 numpy>=2
 openpyxl
 oset
+packaging>=20
 pandas>=2
 pandas-gbq
 pep8-naming
