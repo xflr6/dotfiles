@@ -16,7 +16,7 @@ features
 flake8>=7
 Flake8-pyproject
 Flask>=3
-#gmpy2
+gmpy2
 google-api-python-client
 google-auth-oauthlib
 graphviz
